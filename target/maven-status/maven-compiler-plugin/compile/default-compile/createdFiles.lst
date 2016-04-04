@@ -1,0 +1,8 @@
+mum\eud\week1ExtraCredit\domain\Artist.class
+mum\eud\week1ExtraCredit\domain\Rating.class
+mum\eud\week1ExtraCredit\control\App.class
+mum\eud\week1ExtraCredit\doa\MovieDAO.class
+mum\eud\week1ExtraCredit\domain\Director.class
+mum\eud\week1ExtraCredit\domain\Genre.class
+mum\eud\week1ExtraCredit\domain\Movie.class
+mum\eud\week1ExtraCredit\factory\HibernateUtilFactory.class
